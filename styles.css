@@ -9,7 +9,7 @@ body {
 
 /* Header */
 h1 {
-    background-color: #ff69b4;
+    background-color: #b8238b;
     color: white;
     padding: 20px;
     margin: 0;
@@ -45,7 +45,7 @@ h1 {
 }
 
 .input-container button {
-    background: #ff69b4;
+    background: #b8238b;
     color: white;
     border: none;
     padding: 12px;
@@ -57,7 +57,7 @@ h1 {
 }
 
 .input-container button:hover {
-    background: #ff1493;
+    background: #b8238b;
 }
 
 /* Data Display */
@@ -73,7 +73,7 @@ h1 {
 }
 
 #data-display h2 {
-    color: #ff69b4;
+    color: #b8238b;
     font-size: 1.5rem;
     text-align: center;
 }
@@ -86,7 +86,7 @@ h1 {
 
 /* Claim Button */
 #claim-btn {
-    background: #28a745;
+    background: #b8238b;
     color: white;
     border: none;
     padding: 12px;
@@ -98,7 +98,7 @@ h1 {
 }
 
 #claim-btn:hover {
-    background: #218838;
+    background: #b8238b;
 }
 
 /* Responsive Design */
